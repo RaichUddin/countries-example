@@ -1,0 +1,19 @@
+.country{
+    
+    border: 1px solid royalblue;
+    background-color: rgb(17, 78, 58);
+    margin: 10px;
+    padding: 5px;
+    color: white;
+    border-radius: 10px;
+    
+}
+.country img{
+    width: 200px;
+    border-radius: 10px;
+    
+}
+.country img:hover{
+    transform: rotate(180deg);
+    transition: ease 1s;
+}

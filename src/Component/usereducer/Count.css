@@ -1,0 +1,23 @@
+.count__bg{
+    background-color: azure;
+}
+.button-1 button{
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: 1px solid orangered;
+    background-color: black;
+    color: white;
+}
+.button-2{
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: 1px solid orangered;
+    background-color: black;
+    color: white;
+}
